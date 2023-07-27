@@ -1,8 +1,9 @@
 # Lab - Class 33
 ## Project: drf-auth
 
-Author: Sarah Glass for Python 401
-Collaborated with Anthony, Logan, Dan, Slava at a Remo table.
+- Author: Sarah Glass for Python 401
+
+- Collaborated with Anthony, Logan, Dan, Slava at a Remo table.
 
 ## Overview
 
